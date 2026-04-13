@@ -104,13 +104,11 @@ I focused on the data layer because that's where silent bugs hurt most - wrong f
 
 ## Screenshots
 #### Desktop Dark
-<img width="2056" height="1173" alt="Screenshot 2026-04-13 at 19 28 46" src="https://github.com/user-attachments/assets/09d70b08-1694-4eb7-a9d1-1e39f1f9b7aa" />
-<img width="2056" height="1169" alt="Screenshot 2026-04-13 at 19 28 58" src="https://github.com/user-attachments/assets/cb407bd8-0810-4198-b5d6-d5635627f0ad" />
-
+<img width="1932" height="975" alt="Screenshot 2026-04-13 at 19 55 11" src="https://github.com/user-attachments/assets/b0293cf9-a350-490a-baba-d30d44d2937f" />
 
 #### Desktop Light
-<img width="2055" height="1170" alt="Screenshot 2026-04-13 at 19 28 37" src="https://github.com/user-attachments/assets/cef30534-bb34-486e-b107-4a78f78a70a1" />
-
+<img width="1937" height="975" alt="Screenshot 2026-04-13 at 19 55 46" src="https://github.com/user-attachments/assets/73969f96-4800-4e5f-9f5a-a0a63aaeece2" />
+<img width="1938" height="967" alt="Screenshot 2026-04-13 at 19 55 21" src="https://github.com/user-attachments/assets/c8ef6e0d-6252-42e5-ac20-5496726061c5" />
 
 #### Responsive
 https://github.com/user-attachments/assets/b5b2ab20-6f09-4d9a-af64-e8d333872969
